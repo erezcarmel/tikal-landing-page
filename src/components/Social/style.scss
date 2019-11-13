@@ -1,0 +1,13 @@
+.social {
+	a {
+		color: #fff;
+
+		svg {
+			margin: 0 5px;
+			font-size: 24px;
+		}
+		&:hover {
+			color: #fff;
+		}
+	}
+}

@@ -1,0 +1,158 @@
+{
+	"mainBanner": [
+		{
+			"id": 1,
+			"img": {
+				"web": "assets/banner/main1.png",
+				"mobile": "assets/banner/main1.mobile.png"
+			},
+			"text": {
+				"line1": "אם אתה לא פריק של טכנולוגיה, זה לא בשבילך.",
+				"line2": "אבל אם כן, זה בשבילך ביג טיים."
+			}
+		},
+		{
+			"id": 2,
+			"img": {
+				"web": "assets/banner/main2.png",
+				"mobile": "assets/banner/main2.mobile.png"
+			},
+			"text": {
+				"line1": "אם אתה לא פריק של טכנולוגיה, זה לא בשבילך.",
+				"line2": "אבל אם כן, זה בשבילך ביג טיים."
+			}
+		},
+		{
+			"id": 3,
+			"img": {
+				"web": "assets/banner/main3.png",
+				"mobile": "assets/banner/main3.mobile.png"
+			},
+			"text": {
+				"line1": "אם אתה לא פריק של טכנולוגיה, זה לא בשבילך.",
+				"line2": "אבל אם כן, זה בשבילך ביג טיים."
+			}
+		},
+		{
+			"id": 4,
+			"img": {
+				"web": "assets/banner/main4.png",
+				"mobile": "assets/banner/main4.mobile.png"
+			},
+			"text": {
+				"line1": "אם אתה לא פריק של טכנולוגיה, זה לא בשבילך.",
+				"line2": "אבל אם כן, זה בשבילך ביג טיים."
+			}
+		}
+	],
+	"grid": [
+		{
+			"id": 1,
+			"mobileOrder": 0,
+			"img": "assets/grid/1.png"
+		},
+		{
+			"id": 2,
+			"mobileOrder": 1,
+			"icon": "assets/grid/icon_like.svg",
+			"title": "חבר תעשה לי Share",
+			"text": "אנחנו חייבים להכיר לכם את האנשים שלנו. טיקליסטים שמשתפים מידע, מתייעצים, זורקים עצם כשצריך חת׳כה של רעיון. בקיצור, אצלינו לעולם לא צועדים לבד."
+		},
+		{
+			"id": 3,
+			"mobileOrder": 3,
+			"img":  "assets/grid/3.png"
+		},
+		{
+			"id": 4,
+			"mobileOrder": 2,
+			"icon": "assets/grid/icon_turtle.svg",
+			"title": "באלאנס",
+			"text": "קריירה זה חשוב. הנה אפילו יש לנו דף קריירה! אבל בית זה לא פחות חשוב, והאיזון ביניהם - טוב, זה כבר הכי חשוב לנו."
+		},
+		{
+			"id": 5,
+			"mobileOrder": 4,
+			"img":  "assets/grid/5.png"
+		},
+		{
+			"id": 6,
+			"mobileOrder": 5,
+			"icon": "assets/grid/icon_mountain.svg",
+			"title": "מסלול מאתגר",
+			"text": "הבעיות הכי מורכבות, בפלטפורמות מגוונות, עם טכנולוגיות הכי חדישות וההכשרות הכי שוות. איזה שיר יצא פה, להיט! אבל בעיקר, נהיה מעניין."
+		},
+		{
+			"id": 7,
+			"mobileOrder": 7,
+			"img":  "assets/grid/7.png"
+		},
+		{
+			"id": 8,
+			"mobileOrder": 6,
+			"icon": "assets/grid/icon_door.svg",
+			"title": "רדיקל חופשי עם ביטחון",
+			"text": "בטיקל יש לך עצמאות, אבל גם גב מעופרת יצוקה לאוורר את חלומות הקריירה אבל גם תמיד להיות חלק מבית למפתחים."
+		},
+		{
+			"id": 9,
+			"mobileOrder": 8,
+			"img": "assets/grid/9.png"
+		}
+	],
+	"secondaryBanner": [
+		{
+			"id": 1,
+			"img": {
+				"web": "assets/banner/secondary1.png",
+				"mobile": "assets/banner/secondary1.mobile.png"
+			}
+		},
+		{
+			"id": 2,
+			"img": {
+				"web": "assets/banner/secondary2.png",
+				"mobile": "assets/banner/secondary2.mobile.png"
+			}
+		},
+		{
+			"id": 3,
+			"img": {
+				"web": "assets/banner/secondary3.png",
+				"mobile": "assets/banner/secondary3.mobile.png"
+			}
+		},
+		{
+			"id": 4,
+			"img": {
+				"web": "assets/banner/secondary4.png",
+				"mobile": "assets/banner/secondary4.mobile.png"
+			}
+		},
+		{
+			"id": 5,
+			"img": {
+				"web": "assets/banner/secondary5.png",
+				"mobile": "assets/banner/secondary5.mobile.png"
+			}
+		}
+	],
+	"jobs": [
+		{
+			"title": "Senior Big Data Developer",
+			"url": "#"
+		},
+		{
+			"title": "Senior Full Stack Developer",
+			"url": "#"
+		},
+		{
+			"title": "Senior Backend Developer",
+			"url": "#"
+		},
+		{
+			"title": "Senior DevOp Developer",
+			"url": "#"
+		}
+	]
+}

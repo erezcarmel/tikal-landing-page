@@ -1,0 +1,57 @@
+.banner {
+	.banner-text {
+		position: absolute;
+		height: 100px;
+		color: #595959;
+		text-align: right;
+		direction: rtl;
+		font-family: OpenSansHebrewBold;
+
+		&.web {
+			width: 310px;
+			font-size: 22px;
+			top: 50%;
+			right: 70px;
+			margin-top: -50px;
+		}
+
+		&.mobile {
+			width: 250px;
+			font-size: 18px;
+			top: 30px;
+			margin: 0 auto;
+			right: 0;
+			left: 0;
+		}
+
+		p {
+			mark {
+				background: #333333;
+				color: #fff
+			}
+		}
+	}
+	.carousel-indicators {
+		flex-direction: column;
+		right: 10px;
+		left: auto;
+		bottom: auto;
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		margin: 0;
+
+		li {
+			width: 9px;
+			height: 9px;
+			border-radius: 9px;
+			border: 1px solid #333333;
+			background: transparent;
+			margin: 5px;
+
+			&.active {
+				background: #333333;
+			}
+		}
+	}
+}

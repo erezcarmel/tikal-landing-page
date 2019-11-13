@@ -1,0 +1,31 @@
+.footer {
+	background: #F36A38;
+	height: 110px;
+	align-items: center;
+
+	.navbar-nav {
+		.nav-item {
+			margin: 0 5px;
+			direction: rtl;
+			a {
+				color: #fff;
+				font-size: 12px;
+				padding: 3px 15px;
+
+				&.active {
+					color: #fff;
+				}
+
+				&.highlight {
+					color: #f36a38;
+					border-radius: 20px;
+					background: #fff;
+				}
+			}
+		}
+	}
+
+	.logo {
+		width: 100px;
+	}
+}
